@@ -11,4 +11,12 @@
     flex:1;
     max-width: 180px;
     margin-right: 2rem;
+
+}
+
+.gpt3__features-container__feature-title h1{
+    font-family: var(--font-family);
+    font-size: 18px;
+    line-height:24px;
+    font-weight: 800;
 }
