@@ -17,7 +17,7 @@ const Gpt = () => {
         </p>
       </div>
       <div className='gpt3__whatgpt3-container'>
-        <Feature title={'Chat Bot'} text='As a front-end developer, I transform ideas into visually stunning and user centeric experience.'/>
+        <Feature title={'ChatsBots'} text='As a front-end developer, I transform ideas into visually stunning and user centeric experience.'/>
         <Feature title={'Knowledge'} text={'As a front-end developer, I transform ideas into visually stunning and user centeric experience.'}/>
         <Feature title={'Education'} text={'As a front-end developer, I transform ideas into visually stunning and user centeric experience.'}/>
       </div>
